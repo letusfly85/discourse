@@ -29,6 +29,8 @@ public/tombstone/*
 
 config/discourse.pill
 config/discourse.conf
+config/database.yml
+Gemfile.lock
 
 # Ignore the default SQLite database and db dumps
 /db/*.sqlite3

@@ -145,7 +145,8 @@ gem 'omniauth-github-discourse', require: 'omniauth-github'
 gem 'omniauth-oauth2', require: false
 gem 'omniauth-google-oauth2'
 gem 'oj'
-gem 'pg'
+#gem 'pg'
+gem 'mysql2'
 gem 'pry-rails', require: false
 gem 'rake'
 
